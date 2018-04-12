@@ -1,2 +1,2 @@
-# AjaxQuery_ssxjl
-Ajax_ssxjl
+# AjaxQuery/ssxjl
+Ajax/ssxjl
